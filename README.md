@@ -5,6 +5,6 @@ Web Application to filter and show building permits throughout Calgary. Is able 
 - Use markercluster to organize information, make more visually apealling and prevent issues with overlapping markers
 
 Files include:
-index.html
-app.js
+-index.html
+-app.js
 
